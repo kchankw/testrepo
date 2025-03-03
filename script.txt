@@ -1,0 +1,1 @@
+yt-dlp --extract-audio --audio-format mp3 --output "%(playlist_title)s/%(title)s.%(ext)s" --yes-playlist --batch-file test.txt
